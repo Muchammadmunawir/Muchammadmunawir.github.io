@@ -131,7 +131,7 @@ section {
 }
 
 .hero {
-    background-image: url('asset/tult.jpg');
+    background-image: url('asset/Telkom University.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -371,3 +371,4 @@ footer {
     transform: translateY(0);
 
 }
+
