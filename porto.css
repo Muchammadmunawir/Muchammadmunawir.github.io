@@ -131,7 +131,7 @@ section {
 }
 
 .hero {
-    background-image: url('asset/pembaik.jpg');
+    background-image: url('asset/tult.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -369,4 +369,5 @@ footer {
 .scroll-animation.visible {
     opacity: 1;
     transform: translateY(0);
+
 }
